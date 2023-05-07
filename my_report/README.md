@@ -17,6 +17,12 @@
 
 
 # 2nd Deliverable
+Αρχικά έφτιαξα τα ζητούμενα Virtual camera shots και το blended shot ανάμεσα στις κάμερες και όσο ήμουν εκεί έβαλα σε κάθε κάμερα ένα διακοφερετικό επιθυμητό depth of field.
+![Screenshot_106](https://user-images.githubusercontent.com/100956251/236697670-825865fb-5099-4c29-a214-613cdd183b44.png)
+
+Αφαίρεσα όλα τα φώτα και άρχισα από την αρχή να βάζω τα δικά μου για να δημιουργήσω ατμόσφαιρα. Επίσης έπαιξα λίγο με το color grading μέχρι να βγει ένα επιθυμητό αποτέλεσμα και πρόσθεσα ομίχλη. Απο πίσω φαίνεται πως έπαιξα με τα special effects για να δείξω ότι το βαρέλι έχει πάρει φωτιά και βγάζει καπνούς.  ![Screenshot_103](https://user-images.githubusercontent.com/100956251/236697680-22b54852-7a22-49a2-99fd-c4d16c7f86b7.png)
+![Screenshot_104](https://user-images.githubusercontent.com/100956251/236697683-3bb58f3f-b63d-4aee-8852-d7519dd007fd.png)
+![Screenshot_105](https://user-images.githubusercontent.com/100956251/236697689-bcec7a19-7409-4b29-ba8e-44141a5ac9a8.png)
 
 
 # 3rd Deliverable 
